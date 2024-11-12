@@ -1,4 +1,4 @@
-# E-Commerce website with NodeJS
+# E-Commerce website with React and NodeJS
 
 This Express service provides authorization functionality and includes separate folders for users and products.
 It uses Sequelize ORM with SQLite as the database, along with JSON Web Token (JWT) and AJV libraries for token-based authentication and JSON schema validation.
